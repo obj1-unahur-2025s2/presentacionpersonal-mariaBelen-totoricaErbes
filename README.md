@@ -5,7 +5,8 @@
 ## María Belén Totorica Erbes
 Hola, me llamo  María Belén, me dicen Belén o Toto. Inicié la Tecnicatura Universitaria en Programación en 2021, este es mi quinto año estudiando la carrera. En 2020, durante la pandemia, trabajando con entornos virtuales me dió curiosidad la carrera y empezé a estudiarla al año siguiente... 
 
-![miFoto](https://github.com/user-attachments/assets/1106c5c1-867f-4e08-8193-7e6fcc0a11aa)
+![miFoto](https://github.com/user-attachments/assets/84b13eb9-be5e-4be2-a7c0-20ed357e527d)
+
 
 ### Mis intereses y curiosidades
 - Hasta esta fecha me encuentro cursando materias de la Tecnicatura Universitaria en Programación y de la Licenciatura en Educación.
